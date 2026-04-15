@@ -1,5 +1,9 @@
 ---
-rules: In a tie, player wins
+title: Meets Beats
+draft: false
+tags:
+  - rules
+  - house
 ---
 - Role Play
 	- Player wins in the case of a tie

@@ -1,5 +1,9 @@
 ---
 title: House Rules
+draft: false
+tags:
+  - rules
+  - house
 ---
 # Our House Rules
 ## Meets Beats

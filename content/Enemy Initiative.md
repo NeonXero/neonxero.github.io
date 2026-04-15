@@ -1,5 +1,9 @@
 ---
-rules: Villain -> Player -> Enemy descending initiative
+title: Enemy Initiative
+draft: false
+tags:
+  - rules
+  - house
 ---
 * Enemy Initiative
 	* Enemies go in descending initiative order. Fast to slow. 

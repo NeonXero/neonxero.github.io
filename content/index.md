@@ -1,11 +1,12 @@
 ---
 title: Rage Against the Machina
+draft: false
+tags:
 ---
 # Welcome!
 Why don't you take a look at our:
-
-[[House Rules]]
-[[Rule Clarifications]]
+* [[House Rules]]
+* [[Rule Clarifications]]
 
 
 

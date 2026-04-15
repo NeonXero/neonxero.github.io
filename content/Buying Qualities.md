@@ -1,5 +1,9 @@
 ---
-rules: See note for info
+title: Buying Qualities
+draft: false
+tags:
+  - rules
+  - house
 ---
 With this optional rule, Player Characters may pay a blacksmith or artisan to add a Quality to armor, shields, or weapons that doesn't have one, or to replace an item's Quality with a different one (remember, an item can only have one Quality).
 

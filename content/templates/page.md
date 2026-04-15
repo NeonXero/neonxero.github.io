@@ -1,5 +1,5 @@
 ---
-title: <%* await tp.file.rename(title); -%>
+title: TITLE
 draft: false
 tags:
 ---
