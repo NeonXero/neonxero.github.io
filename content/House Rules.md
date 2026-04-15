@@ -22,4 +22,4 @@ tags:
 [[Enemy Initiative]]
 
 ## Experience and Leveling
-[[Experience and leveling recap]]
+[[Experience and Leveling]]
