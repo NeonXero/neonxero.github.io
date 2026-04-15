@@ -3,8 +3,9 @@ title: Rage Against the Machina
 ---
 # Welcome!
 Why don't you take a look at our:
-[[House Rules]]
 
+[[House Rules]]
+[[Rule Clarifications]]
 
 
 
