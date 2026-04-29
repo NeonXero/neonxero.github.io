@@ -4,4 +4,4 @@ draft: false
 tags:
   - player
 ---
-Puppet!
+An excited puppet who is afraid of being left behind.

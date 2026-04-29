@@ -16,7 +16,7 @@ Or maybe you want to know about our AWESOME PLAYERS??
 * "J" playing [[Tidus]]
 * "B" playing [[Trixie]]
 
-
+Curious about the toils and troubles of the wonderful land of Venia? [[World Troubles|Check it out here.]]
 
 
 
