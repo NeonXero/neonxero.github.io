@@ -3,5 +3,11 @@ title: Tidus
 draft: false
 tags:
   - player
+  - tidus
+pronouns: He/Him
+identity: Elderly Spy
+theme: Doubt
+origin:
+  - "[[Pacifica]]"
 ---
-An elderly human spy. 
+TODO - BIO??

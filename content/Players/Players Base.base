@@ -1,0 +1,13 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.folder == "Players"
+        - file.tags.contains("player")
+    order:
+      - file.name
+      - pronouns
+      - identity
+      - theme
+      - origin

@@ -3,5 +3,11 @@ title: Trixie
 draft: false
 tags:
   - player
+  - trixie
+pronouns: She/Her
+identity: Shady lady
+theme: Mercy
+origin:
+  - "[[Moonglow]]"
 ---
-A shady lady.
+TODO - BIO??

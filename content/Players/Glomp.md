@@ -3,6 +3,14 @@ title: Glomp
 draft: false
 tags:
   - player
+  - glomp
+pronouns: It/That
+identity: Excited puppet afraid of being left behind.
+theme: Belonging
+origin: "[[Tentia]]"
 ---
-An excited puppet who is afraid of being left behind.
 ![[Ye Shirt.webp]]
+
+
+
+TODO - BIO??

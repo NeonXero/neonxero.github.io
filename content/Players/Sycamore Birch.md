@@ -3,5 +3,14 @@ title: Sycamore Birch
 draft: false
 tags:
   - player
+  - sycamore
+pronouns: She/Her
+identity: Gifted occultist mercenary of the old faith
+theme: Justice
+origin:
+  - "[[Skara Brae]]"
+  - "[[Corelia]]"
 ---
-A gifted occultist mercenary of the old faith.
+TODO - SCAN DRAWING
+
+TODO - BIO??
