@@ -11,6 +11,6 @@ origin:
   - "[[Skara Brae]]"
   - "[[Corelia]]"
 ---
-TODO - SCAN DRAWING
+![[Pasted image 20260509103053.png]]
 
 TODO - BIO??
