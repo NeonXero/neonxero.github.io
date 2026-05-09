@@ -15,9 +15,10 @@ Or maybe you want to know about our AWESOME PLAYERS??
 * "J2" playing [[Sycamore Birch]]
 * "J" playing [[Tidus]]
 * "B" playing [[Trixie]]
+* Player Master Page - [[Player Master]]
 
 Curious about the toils and troubles of the wonderful land of Venia? [[World Troubles|Check it out here.]]
-
+Or just want to read about [[Venia]] itself?
 
 
 
